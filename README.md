@@ -229,4 +229,4 @@ Pro Cycling Manager is offered as a complete free version with all features and 
 Ready to take control of your cycling team? Download Pro Cycling Manager now and start your journey towards sporting glory!
 
 ---
-**Last updated:** 2026-09-20 23:52:11 UTC
+**Last updated:** 2026-09-21 03:37:08 UTC
